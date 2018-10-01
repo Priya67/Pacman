@@ -1,20 +1,7 @@
-/*#pacman {
-  width: 100%;
-  height: auto;
-}*/
-
-/*#pacman {
-  position: absolute;
-  z-index: 100;
-}*/
 pacman {
   position: fixed;
   height: auto;
 }
-
-/* body {
-  display: flex;
-} */
 
 button {
   height: 30px;
