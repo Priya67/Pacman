@@ -12,15 +12,14 @@ pacman {
   height: auto;
 }
 
-body {
+/* body {
   display: flex;
-
-}
+} */
 
 button {
   height: 30px;
   width: 100px;
-  margin: 20px;
+  margin-left: 220px;
   margin-top: 0px;
   border-radius: 5px;
   color: green;
@@ -31,11 +30,13 @@ button {
 div {
   vertical-align: middle;
   justify-content: center;
-  margin: 20px;
+  margin: 15px;
+  padding-left: 270;
 }
 
 p {
-  margin: 20px;
+  margin: 15px;
   font-size: 30px;
   color: purple;
+  margin-left: 220px;
 }
